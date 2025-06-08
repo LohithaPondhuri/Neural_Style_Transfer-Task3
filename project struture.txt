@@ -1,0 +1,9 @@
+neural_style_transfer/
+│
+├── style_transfer.py                # Main Python script (your code)
+├── images/
+│   ├── content.jpg                  # Input content image
+│   └── style.jpg                    # Input style reference image
+├── output/
+│   └── stylized_image.jpg           # Resulting stylized image (auto-generated)
+└── README.md                        # Project documentation
